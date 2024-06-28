@@ -1,0 +1,17 @@
+[Ayer 15:04] Anina Thomas
+rpi-boots-retail-d
+rpi-boots-retail-t
+rpi-boots-retail-s
+ 
+rpi-boots-pharmacy-d
+rpi-boots-pharmacy-t
+rpi-boots-pharmacy-s
+ 
+ 
+ 
+ 
+[Ayer 15:04] Anina Thomas
+rpi-bsp-d
+rpi-bsp-t
+rpi-bsp-s
+ 
